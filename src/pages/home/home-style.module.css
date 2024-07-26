@@ -1,0 +1,17 @@
+/** @format */
+
+@import url("./reset.css");
+body {
+  background-image: url("https://annenberg.usc.edu/sites/default/files/styles/article_full_content_1240x600/public/AII.8.17.23.jpg?itok=mbPNxH7R");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+.searcInputClas{
+  width: 300px;
+  outline: none;
+  border-top-left-radius: 13px;
+  border-bottom-left-radius: 13px;
+  padding: 6px 12px;
+  border-width: 0px;
+}
